@@ -1,0 +1,32 @@
+[
+    {
+      "isim":"Demir Adam","dizi":"Yenilmezler","hikaye":"Tamirci","Events":"Günümüz","comic":"Yenilmezler"
+    },
+    {
+      "isim":"Hulk","dizi":"Yenilmezler","hikaye":"Bilim adamı","Events":"Günümüz","comic":"Yenilmezler"
+    },
+    {
+      "isim":"kaptan Amerika","dizi":"Yenilmezler","hikaye":"PendikSpor","Events":"Günümüz","comic":"Yenilmezler"
+    },  
+    {
+      "isim":"Wolverine","dizi":"X-Men","hikaye":"Ölümsüz","Events":"2018","comic":"X-Men"
+    },
+    {
+      "isim":"Vision","dizi":"Yenilmezler","hikaye":"Taş","Events":"Günümüz","comic":"Yenilmezler"
+    },
+    {
+      "isim":"Taş Adam","dizi":"Gümüş Sörfçü","hikaye":"Uzay","Events":"2005","comic":"Fantastik Four"
+    },
+    {
+      "isim":"Örümcek Adam","dizi":"Amazing Spiderman","hikaye":"Örümcek Isırığı","Events":"2019","comic":"Spiderman"
+    },
+    {
+      "isim":"Dardevil","dizi":"Netfilix","hikaye":"Kahraman","Events":"2017","comic":"Dardevil"
+    }, 
+    {
+      "isim":"Demir Yumruk","dizi":"Netfilix","hikaye":"Kaşif","Events":"2019","comic":"Iron First"
+    }, 
+    {
+      "isim":"Punisher","dizi":"İnfazcı","hikaye":"Cezalandırıcı","Events":"2020","comic":"Punisher"
+    }
+      ]
